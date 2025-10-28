@@ -50,7 +50,7 @@ The **myTask** app is a modern and minimalistic **Todo Manager** built using **R
 
 ## 🖥️ Preview
 
-![myTask App Screenshot](.\\components\\preview.png)
+![myTask App Screenshot](.\\src\\components\\preview.png)
 
 ---
 
