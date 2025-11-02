@@ -4,6 +4,11 @@ The **myTask** app is a modern and minimalistic **Todo Manager** built using **R
 
 ---
 
+## 🚀 Demo
+
+👉 [**Live Demo**](https://todo-app-snowy-ten-40.vercel.app/)
+
+---
 ## 🚀 Features
 
 - ✨ **Add new tasks** with a clean input interface  
